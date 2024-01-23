@@ -41,9 +41,14 @@ This project is a C++ implementation of Skip List. Skip List is an ordered data 
 ## Project Structure
 
 -   **SkipList.h**: Contains the implementation code for the Skip List, defining the Skiplist class.
+
 -   **SkipList.cpp**: Contains the main function and example code, demonstrating how to use various features of the Skip List.
+
 -   **skip_list_example**: The binary executable file.
+
 -   **README.md**: Project introduction.
+
 -   **LICENSE**: License agreement.
+
 **Author**: Zyoobn
 **Date**: 2024/1/23
