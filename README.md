@@ -33,9 +33,9 @@
 
 -   **SkipList.h：** 包含了跳表的实现代码，定义了 `Skiplist` 类。
 -   **SkipList.cpp：** 包含了主函数和示例代码，演示了如何使用跳表的不同功能。
--   **skip_list_example：**为代码的二进制可执行文件。
--   **README.md：**项目介绍。
--   **LICENSE：** 使用协议。
+-   **skip_list_example：**为代码的二进制可执行文件
+-   **README.md：**项目介绍
+-   **LICENSE：** 使用协议
 
 **作者：** Zyoobn
 **日期：** 2024/1/23
